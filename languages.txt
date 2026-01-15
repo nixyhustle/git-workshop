@@ -7,3 +7,7 @@
 ## Language Details
 Python: Great for data science and automation
 JavaScript: Essential for web development
+## Learning Resources
+- Codeacademy
+- freeCodeCamp
+
