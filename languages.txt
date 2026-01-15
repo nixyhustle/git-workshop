@@ -4,3 +4,6 @@
 3. Java - Enterprise ready
 4. C++ - Performance matters
 ## WE DID IT
+## Learning Resources
+- Codeacademy
+- freeCodeCamp
